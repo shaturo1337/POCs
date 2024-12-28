@@ -47,6 +47,8 @@ book_name=x'+union+select+NULL,version(),NULL,NULL--+-&book_author=x&search_book
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/dcad5751-4fe1-4526-a343-2ee8568132eb)
+![image](https://github.com/user-attachments/assets/da9693b3-d036-4bcd-b82b-235af45fdfc4)
+
 
 ## CWE
 [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)
