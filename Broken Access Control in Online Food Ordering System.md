@@ -2,7 +2,7 @@
 
 
 ## Vendor and Product information:
-* **Vendor:** Codezips
+* **Vendor:** CodeAstro
 * **Product:** Online Food Ordering System
 * **Product URL:** https://codeastro.com/online-food-ordering-system-in-php-mysql-with-source-code/
 
