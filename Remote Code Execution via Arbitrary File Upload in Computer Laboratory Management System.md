@@ -1,4 +1,4 @@
-# Remote Code Execution via Arbitrary File Upload in Hospital Management System
+# Remote Code Execution via Arbitrary File Upload in Computer Laboratory Management System
 
 ## Vendor Homepage and Product Link:
 > https://www.campcodes.com/
